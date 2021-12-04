@@ -1,0 +1,30 @@
+.footer-copyright{
+  background-color: #212121;
+}
+
+.topfootercolor{
+  background-color: #CC0000;
+}
+
+.bg-body-image{
+ background-image: url("bolasbasquete.jpg");
+ // background-color: #6a1b9a;
+ background-size: 100%;
+ height: auto;
+}
+
+.form-color{
+  background-color: #212121a1;
+}
+
+.form-group{
+  padding: 5px;
+}
+
+.fab{
+  background-color: #fff;
+}
+
+.bg-header{
+  background-color: #CC0000;
+}
