@@ -40,3 +40,12 @@
     padding-left: 0px;
     padding-right: 0px;
 }
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+hr{
+  width: 60px;
+}
+
